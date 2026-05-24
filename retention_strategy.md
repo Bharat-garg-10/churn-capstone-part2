@@ -9,8 +9,8 @@
 |---|---|---|---|---|
 | Champions | 389 | 0.0% | ₹5,938 | Maintain |
 | Loyal Customers | 488 | 35.9% | ₹4,678 | Nurture |
-| At-Risk High Value | 98 | 100.0% | ₹4,209 | 🔴 Urgent |
-| High-Value but Unhappy | 8 | 75.0% | ₹3,857 | 🔴 Urgent |
+| At-Risk High Value | 98 | 100.0% | ₹4,209 | Urgent |
+| High-Value but Unhappy | 8 | 75.0% | ₹3,857 | Urgent |
 | New Customers | 233 | 0.0% | ₹1,783 | Onboard |
 | Needs Attention | 966 | 68.5% | ₹1,714 | Watch |
 | Discount Sensitive | 129 | 75.2% | ₹1,554 | Re-educate |
